@@ -18,5 +18,10 @@ public class Main {
         // if you want to check that the asked element is there in list is
         System.out.println(a1.contains(69));
         System.out.println(a1.contains(56));
+        // if you want to replace an element from a given index:
+        a1.set(0,99);
+        a1.set(1,88);
+        System.out.println(a1);
+
     }
 }
