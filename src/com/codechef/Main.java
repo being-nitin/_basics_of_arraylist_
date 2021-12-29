@@ -22,6 +22,8 @@ public class Main {
         a1.set(0,99);
         a1.set(1,88);
         System.out.println(a1);
+        // if you want to remove an element from the list:
+        a1.remove(2);
 
     }
 }
