@@ -23,6 +23,7 @@ public class Main {
         a1.set(1,88);
         System.out.println(a1);
         // if you want to remove an element from the list:
+        // in parenthesis index will be written whose value user wants to remove
         a1.remove(2);
 
     }
