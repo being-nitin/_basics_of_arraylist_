@@ -26,7 +26,9 @@ public class Main {
         // in parenthesis index will be written whose value user wants to remove
         a1.remove(2);
         /* as like arrays we don't use arr[i] to fetch an element in list
-        instead of that we use list.get(i);
+        instead of that we use list.get(i)
+        inside the parenthesis index will be written at which the value will be
+        fetched
          */
         a1.get(2);
     }
